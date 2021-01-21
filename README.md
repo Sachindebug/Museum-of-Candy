@@ -1,2 +1,2 @@
 # Museum-of-Candy
-##this is a bootstrap based demo website 
+## this is a bootstrap based demo website 
