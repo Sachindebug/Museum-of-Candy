@@ -4,6 +4,7 @@ body {
   width: 100%;
   height: auto;
 }
+/*applying basic styles by selecting by element,class and id of elements*/
 h2 {
   color: #ea1c2c;
   font-weight: 100;
